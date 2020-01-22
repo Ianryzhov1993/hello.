@@ -1,2 +1,2 @@
-hello.world
-Vsem privet
+Vsem salut
+NOVAYA STROKA
